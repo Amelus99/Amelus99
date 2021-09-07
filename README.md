@@ -1,6 +1,7 @@
 # Hi, I'm Samuel Araújo!
 
-- I am 21 yo and i am a student of internet systems at the Centro Universitario de João Pessoa - UNIPÊ, and Computer networks at Instituto Federal da Paraiba.
+- I am 21 yo and i am a student of internet systems at the Centro Universitario de João Pessoa - UNIPÊ, and Computer networks at Instituto Federal da Paraiba - IFPB.
+- (PROFILE UNDER CONSTRUCTION)
 
 ### Languages and tools 🧰
 
