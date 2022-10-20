@@ -1,6 +1,6 @@
 # Hi, I'm Samuel Araújo!
 
-- I am 22yo and i am a student of internet systems at the Centro Universitario de João Pessoa - UNIPÊ.
+- I am 22yo and i am a student at IFPB.
 
 ### Languages and tools 🧰
 
