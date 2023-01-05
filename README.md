@@ -16,15 +16,22 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-a-5597bb199/)
 
-<p>
+<div>
   <a href="https://github.com/Amelus99">
   <img height="232em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amelus99&layout=compact&langs_count=10&theme=synthwave"/>
-</p>
-<p>
+</div>
+<div>
   <a href="https://github.com/Amelus99">
   <img height="232em" src="https://github-readme-stats.vercel.app/api?username=Amelus99&show_icons=true&theme=synthwave"/>
-</p>
-<p>
+</div>
+<div>
   <a href="https://github.com/Amelus99">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Amelus99&layout=compact&theme=synthwave"/>
-</p>
+</div>
+  
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Amelus99}/count.svg" /></p> 
+<br>
+</div>
