@@ -23,5 +23,5 @@
 
 <div>
   <a href="https://github.com/Amelus99">
-  <img height="180em" ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelus99&theme=tokyonight)/>
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amelus99&theme=tokyonight)
 </div>
