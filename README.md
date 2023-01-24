@@ -18,7 +18,7 @@
 
 <div>
   <a href="https://github.com/Amelus99">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Amelus99&layout=compact&theme=synthwave"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Amelus99&theme=synthwave"/>
 </div>
 <div>
   <a href="https://github.com/Amelus99">
@@ -27,11 +27,4 @@
 <div>
   <a href="https://github.com/Amelus99">
   <img height="232em" src="https://github-readme-stats.vercel.app/api?username=Amelus99&show_icons=true&theme=synthwave"/>
-</div>
-
-<div align="center">
-<br>
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Amelus99}/count.svg" /></p> 
-<br>
 </div>
