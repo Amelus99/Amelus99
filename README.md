@@ -1,6 +1,6 @@
 # Hi, I'm Samuel Araújo!
 - I am 23yo and i am a student at IFPB.
-- *Profile under reforms!*
+- *Profile under maintenance!*
 
 ### Languages and tools 🧰
 
@@ -18,17 +18,17 @@
 
 <div>
   <a href="https://github.com/Amelus99">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Amelus99&layout=compact&theme=synthwave"/>
+</div>
+<div>
+  <a href="https://github.com/Amelus99">
   <img height="232em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amelus99&layout=compact&langs_count=10&theme=synthwave"/>
 </div>
 <div>
   <a href="https://github.com/Amelus99">
   <img height="232em" src="https://github-readme-stats.vercel.app/api?username=Amelus99&show_icons=true&theme=synthwave"/>
 </div>
-<div>
-  <a href="https://github.com/Amelus99">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/wakatime?username=Amelus99&layout=compact&theme=synthwave"/>
-</div>
-  
+
 <div align="center">
 <br>
 <p align="centre"><b>Visitors Count</b></p>  
